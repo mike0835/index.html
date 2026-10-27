@@ -15,4 +15,4 @@
 
 <h2>GitHub</h2>
 <object deta="https://github.com/mike0835">
-<h3>GitHubプロフィール</h3>
+<h3>GitHubプロフィール<object deta="https://github.com/mike0835"></h3>
