@@ -14,5 +14,4 @@
 <br>
 
 <h2>GitHub</h2>
-<object deta="https://github.com/mike0835">
-<h3>GitHubプロフィール<object deta="https://github.com/mike0835"></h3>
+<h3><a herf="https://github.com/mike0835">GitHubプロフィール</a></h3>
